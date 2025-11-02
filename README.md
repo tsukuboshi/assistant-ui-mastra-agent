@@ -4,6 +4,10 @@
 
 開発手順については本書を参考にしてください。  
 
+# 構成図
+
+![構成図](./image/diagram.drawio.png)
+
 ## 技術スタック
 
 - **バックエンド**: Mastra (Next.jsと直接統合)
@@ -12,11 +16,3 @@
 - **UI**: assistant-ui
 - **インフラ**: AWS ELB/ECS/ECR
 - **IaC**: AWS CDK
-
-## 前提条件
-
-- Node.js 24.10.0以上
-- Amazon BedrockのAPIキー
-- Docker
-- AWS CLI
-- AWS CDK
