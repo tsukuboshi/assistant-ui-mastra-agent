@@ -4,10 +4,6 @@
 
 開発手順については本書を参考にしてください。  
 
-# 構成図
-
-![構成図](./image/diagram.drawio.png)
-
 ## 技術スタック
 
 - **バックエンド**: Mastra (Next.jsと直接統合)
@@ -16,3 +12,7 @@
 - **UI**: assistant-ui
 - **インフラ**: AWS ELB/ECS/ECR
 - **IaC**: AWS CDK
+
+# 構成図
+
+![構成図](./image/diagram.drawio.png)
