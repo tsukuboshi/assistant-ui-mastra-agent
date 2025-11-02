@@ -13,6 +13,6 @@
 - **インフラ**: AWS ELB/ECS/ECR
 - **IaC**: AWS CDK
 
-# 構成図
+## 構成図
 
 ![構成図](./image/diagram.drawio.png)
