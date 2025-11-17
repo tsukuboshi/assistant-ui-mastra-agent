@@ -1,6 +1,6 @@
 # assistant-ui-mastra-agent
 
-本リポジトリは、技術書展本内で紹介したフルスタックTypeScriptエージェントアプリケーションのサンプルコードです。
+本リポジトリは、「AI Builder入門ガイド  ゼロから始めるエージェント開発」書籍内のMastraを用いたエージェント構築(tsukuboshiパート)における、フルスタックTypeScriptエージェントアプリケーションのサンプルコードです。
 
 開発手順については本書を参考にしてください。  
 
@@ -16,3 +16,7 @@
 ## 構成図
 
 ![構成図](./image/diagram.drawio.png)
+
+## 参考URL
+
+[AI Builder入門ガイド \- ゼロから始めるエージェント開発：ぴよテックアカデミー](https://techbookfest.org/product/iJE16DJQYkzPt83ai201J?productVariantID=2Z4T4cuUfNRWNPx9WGpVfy)
